@@ -1,6 +1,8 @@
-# Gmail Extractor
+# AIRupert
 
-This Python script allows you to extract PDF attachments from your Gmail mailbox. It uses the IMAP protocol to access your mailbox, fetch emails, and save PDF attachments to a specified folder on your local machine.
+The aim of this project is to create an application that uses AI to summarise the contents of email attachments.
+
+As it stands this Python script allows you to extract PDF attachments from your Gmail mailbox. It uses the IMAP protocol to access your mailbox, fetch emails, and save PDF attachments to a specified folder on your local machine.
 
 ## Prerequisites
 
@@ -15,13 +17,13 @@ Before using this script, make sure you have the following:
 1. Clone this repository to your local machine:
 
    ```shell
-   git clone https://github.com/joeyqu/gmail-extractor.git
+   git clone https://github.com/joeyqu/AIRupert.git
    ```
 
 2. Navigate to the project directory:
 
    ```shell
-   cd gmail-extractor
+   cd AIRupert
    ```
 
 3. Create a virtual environment (recommended):
